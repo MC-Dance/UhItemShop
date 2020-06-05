@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+	<link href="styles/style.css" rel="stylesheet">
+    <title>uh shop - test page</title>
+	<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap" rel="stylesheet"> 
+  </head>
+  <body>
+	<h1>uh shop...</h1>
+    <!--<img src="images/workshop.jpg" alt="The interior of a woodworking shop filled with oldfashoned tools.">-->
+	<p>a random shop generator for D&D 5th edition.</p>
+	<div id="inputfield">
+		<input type="checkbox" id="commonitems">
+		<div for="commonitems">include common items</div>
+		<input type="checkbox" id="uncommonitems">
+		<div for="uncommonitems">include uncommon items</div>
+		<input type="checkbox" id="rareitems">
+		<div for="rareitems">include rare items</div>
+		<input type="checkbox" id="veryrareitems">
+		<div for="veryrareitems">include very rare items</div>
+		<input type="checkbox" id="legendaryitems">
+		<div for="legendaryitems">include legendary items</div>
+	</div>
+	<div id="rollbutton">
+	<input type="button" value="Roll a Shop" onclick="rollFunction()">
+	</div>
+	<h2>the test shop</h2>
+	<p>this shop has in stock</p>
+	<ul>
+		<li>+1 Aummunition</li>
+		<li>+1 Longsword</li>
+		<li>Boots of elvinkind</li>
+		<li>Scroll of Invisibility</li>
+		<li>Deck of Many Things</li>
+	</ul>
+	<p>Feel free to contact me via <a href="https://twitter.com/The_MC_Dance">Twitter</a>.</p>
+	<script type="module" src="scripts/main.js"></script>
+  </body>
+</html> 
