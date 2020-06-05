@@ -1,0 +1,2476 @@
+<?xml version="1.0"?>
+<data>
+  <Sheet1>
+    <Adamantine_Armor>
+      <Category>Armor</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Adamantine_Armor>
+    <Alchemy_Jug>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Alchemy_Jug>
+    <Ammunition__1>
+      <Category>Weapon</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Ammunition__1>
+    <Ammunition__2>
+      <Category>Weapon</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Ammunition__2>
+    <Ammunition__3>
+      <Category>Weapon</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Ammunition__3>
+    <Amulet_of_Health>
+      <Category>Wondrous item</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Amulet_of_Health>
+    <Amulet_of_Proof_against_Detection_and_Location>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Amulet_of_Proof_against_Detection_and_Location>
+    <Amulet_of_the_Planes>
+      <Category>Wondrous item</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Amulet_of_the_Planes>
+    <Animated_Shield>
+      <Category>Armor</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Animated_Shield>
+    <Apparatus_of_Kwalish>
+      <Category>Wondrous item</Category>
+      <Rarity>legendary</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Apparatus_of_Kwalish>
+    <Armor__1>
+      <Category>Armor</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Armor__1>
+    <Armor__2>
+      <Category>Armor</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Armor__2>
+    <Armor___3>
+      <Category>Armor</Category>
+      <Rarity>legendary</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Armor___3>
+    <Armor_of_Invulnerability>
+      <Category>Armor</Category>
+      <Rarity>legendary</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Armor_of_Invulnerability>
+    <Armor_of_Resistance>
+      <Category>Armor</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Armor_of_Resistance>
+    <Armor_of_Vulnerability>
+      <Category>Armor</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Armor_of_Vulnerability>
+    <Arrow_of_Slaying>
+      <Category>Weapon</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Arrow_of_Slaying>
+    <Arrow-Catching_Shield>
+      <Category>Armor</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Arrow-Catching_Shield>
+    <Axe_of_the_Dwarvish_Lords>
+      <Category>Weapon</Category>
+      <Rarity>artifact</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Axe_of_the_Dwarvish_Lords>
+    <Bag_of_Beans>
+      <Category>Wondrous item</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Bag_of_Beans>
+    <Bag_of_Devouring>
+      <Category>Wondrous item</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Bag_of_Devouring>
+    <Bag_of_Holding>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Bag_of_Holding>
+    <Bag_of_Tricks>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Bag_of_Tricks>
+    <Bead_of_Force>
+      <Category>Wondrous item</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Bead_of_Force>
+    <Belt_of_Dwarvenkind>
+      <Category>Wondrous item</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Belt_of_Dwarvenkind>
+    <Belt_of_Giant_Strength>
+      <Category>Wondrous item</Category>
+      <Rarity>rarity varies</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Belt_of_Giant_Strength>
+    <Berserker_Axe>
+      <Category>Weapon</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Berserker_Axe>
+    <Blackrazor>
+      <Category>Weapon</Category>
+      <Rarity>legendary</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Blackrazor>
+    <Book_of_Exalted_Deeds>
+      <Category>Wondrous item</Category>
+      <Rarity>artifact</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Book_of_Exalted_Deeds>
+    <Book_of_Vile_Darkness>
+      <Category>Wondrous item</Category>
+      <Rarity>artifact</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Book_of_Vile_Darkness>
+    <Boots_of_Elvenkind>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Boots_of_Elvenkind>
+    <Boots_of_Levitation>
+      <Category>Wondrous item</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Boots_of_Levitation>
+    <Boots_of_Speed>
+      <Category>Wondrous item</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Boots_of_Speed>
+    <Boots_of_Striding_and_Springing>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Boots_of_Striding_and_Springing>
+    <Boots_of_the_Winterlands>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Boots_of_the_Winterlands>
+    <Bowl_of_Commanding_Water_Elementals>
+      <Category>Wondrous item</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Bowl_of_Commanding_Water_Elementals>
+    <Bracers_of_Archery>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Bracers_of_Archery>
+    <Bracers_of_Defense>
+      <Category>Wondrous item</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Bracers_of_Defense>
+    <Brazier_of_Commanding_Fire_Elementals>
+      <Category>Wondrous item</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Brazier_of_Commanding_Fire_Elementals>
+    <Brooch_of_Shielding>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Brooch_of_Shielding>
+    <Broom_of_Flying>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Broom_of_Flying>
+    <Candle_of_Invocation>
+      <Category>Wondrous item</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Candle_of_Invocation>
+    <Cap_of_Water_Breathing>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Cap_of_Water_Breathing>
+    <Cape_of_the_Mountebank>
+      <Category>Wondrous item</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Cape_of_the_Mountebank>
+    <Carpet_of_Flying>
+      <Category>Wondrous item</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Carpet_of_Flying>
+    <Censer_of_Controlling_Air_Elementals>
+      <Category>Wondrous item</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Censer_of_Controlling_Air_Elementals>
+    <Chime_of_Opening>
+      <Category>Wondrous item</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Chime_of_Opening>
+    <Circlet_of_Blasting>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Circlet_of_Blasting>
+    <Cloak_of_Arachnida>
+      <Category>Wondrous item</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Cloak_of_Arachnida>
+    <Cloak_of_Displacement>
+      <Category>Wondrous item</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Cloak_of_Displacement>
+    <Cloak_of_Elvenkind>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Cloak_of_Elvenkind>
+    <Cloak_of_Invisibility>
+      <Category>Wondrous item</Category>
+      <Rarity>legendary</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Cloak_of_Invisibility>
+    <Cloak_of_Protection>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Cloak_of_Protection>
+    <Cloak_of_the_Bat>
+      <Category>Wondrous item</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Cloak_of_the_Bat>
+    <Cloak_of_the_Manta_Ray>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Cloak_of_the_Manta_Ray>
+    <Crystal_Ball>
+      <Category>Wondrous item</Category>
+      <Rarity>very rare or legendary</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Crystal_Ball>
+    <Cube_of_Force>
+      <Category>Wondrous item</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Cube_of_Force>
+    <Cubic_Gate>
+      <Category>Wondrous item</Category>
+      <Rarity>legendary</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Cubic_Gate>
+    <Daern_s_Instant_Fortress>
+      <Category>Wondrous item</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Daern_s_Instant_Fortress>
+    <Dagger_of_Venom>
+      <Category>Weapon</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Dagger_of_Venom>
+    <Dancing_Sword>
+      <Category>Weapon</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Dancing_Sword>
+    <Decanter_of_Endless_Water>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Decanter_of_Endless_Water>
+    <Deck_of_Illusions>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Deck_of_Illusions>
+    <Deck_of_Many_Things>
+      <Category>Wondrous item</Category>
+      <Rarity>legendary</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Deck_of_Many_Things>
+    <Defender>
+      <Category>Weapon</Category>
+      <Rarity>legendary</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Defender>
+    <Demon_Armor>
+      <Category>Armor</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Demon_Armor>
+    <Dimensional_Shackles>
+      <Category>Wondrous item</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Dimensional_Shackles>
+    <Dragon_Scale_Mail>
+      <Category>Armor</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Dragon_Scale_Mail>
+    <Dragon_Slayer>
+      <Category>Weapon</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Dragon_Slayer>
+    <Driftglobe>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Driftglobe>
+    <Dust_of_Disappearance>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Dust_of_Disappearance>
+    <Dust_of_Dryness>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Dust_of_Dryness>
+    <Dust_of_Sneezing_and_Choking>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Dust_of_Sneezing_and_Choking>
+    <Dwarven_Plate>
+      <Category>Armor</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Dwarven_Plate>
+    <Dwarven_Thrower>
+      <Category>Weapon</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Dwarven_Thrower>
+    <Efreeti_Bottle>
+      <Category>Wondrous item</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Efreeti_Bottle>
+    <Efreeti_Chain>
+      <Category>Armor</Category>
+      <Rarity>legendary</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Efreeti_Chain>
+    <Elemental_Gem>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Elemental_Gem>
+    <Elixir_of_Health>
+      <Category>Potion</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Elixir_of_Health>
+    <Elven_Chain>
+      <Category>Armor</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Elven_Chain>
+    <Eversmoking_Bottle>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Eversmoking_Bottle>
+    <Eye_and_Hand_of_Vecna>
+      <Category>Wondrous item</Category>
+      <Rarity>artifact</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Eye_and_Hand_of_Vecna>
+    <Eyes_of_Charming>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Eyes_of_Charming>
+    <Eyes_of_Minute_Seeing>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Eyes_of_Minute_Seeing>
+    <Eyes_of_the_Eagle>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Eyes_of_the_Eagle>
+    <Figurine_of_Wondrous_Power>
+      <Category>Wondrous item</Category>
+      <Rarity>rarity by figurine</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Figurine_of_Wondrous_Power>
+    <Flame_Tongue>
+      <Category>Weapon</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Flame_Tongue>
+    <Folding_Boat>
+      <Category>Wondrous item</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Folding_Boat>
+    <Frost_Brand>
+      <Category>Weapon</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Frost_Brand>
+    <Gauntlets_of_Ogre_Power>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Gauntlets_of_Ogre_Power>
+    <Gem_of_Brightness>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Gem_of_Brightness>
+    <Gem_of_Seeing>
+      <Category>Wondrous item</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Gem_of_Seeing>
+    <Giant_Slayer>
+      <Category>Weapon</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Giant_Slayer>
+    <Glamoured_Studded_Leather>
+      <Category>Armor</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Glamoured_Studded_Leather>
+    <Gloves_of_Missile_Snaring>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Gloves_of_Missile_Snaring>
+    <Gloves_of_Swimming_and_Climbing>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Gloves_of_Swimming_and_Climbing>
+    <Gloves_of_Thievery>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Gloves_of_Thievery>
+    <Goggles_of_Night>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Goggles_of_Night>
+    <Hammer_of_Thunderbolts>
+      <Category>Weapon</Category>
+      <Rarity>legendary</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Hammer_of_Thunderbolts>
+    <Hat_of_Disguise>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Hat_of_Disguise>
+    <Headband_of_Intellect>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Headband_of_Intellect>
+    <Helm_of_Brilliance>
+      <Category>Wondrous item</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Helm_of_Brilliance>
+    <Helm_of_Comprehending_Languages>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Helm_of_Comprehending_Languages>
+    <Helm_of_Telepathy>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Helm_of_Telepathy>
+    <Helm_of_Teleportation>
+      <Category>Wondrous item</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Helm_of_Teleportation>
+    <Heward_s_Handy_Haversack>
+      <Category>Wondrous item</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Heward_s_Handy_Haversack>
+    <Holy_Avenger>
+      <Category>Weapon</Category>
+      <Rarity>legendary</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Holy_Avenger>
+    <Horn_of_Blasting>
+      <Category>Wondrous item</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Horn_of_Blasting>
+    <Horn_of_Valhalla>
+      <Category>Wondrous item</Category>
+      <Rarity>rare (silver or brass)...</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Horn_of_Valhalla>
+    <Horseshoes_of_a_Zephyr>
+      <Category>Wondrous item</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Horseshoes_of_a_Zephyr>
+    <Horseshoes_of_Speed>
+      <Category>Wondrous item</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Horseshoes_of_Speed>
+    <Immovable_Rod>
+      <Category>Rod</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Immovable_Rod>
+    <Instrument_of_the_Bards>
+      <Category>Wondrous item</Category>
+      <Rarity>rarity varies</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Instrument_of_the_Bards>
+    <Ioun_Stone>
+      <Category>Wondrous item</Category>
+      <Rarity>rarity varies</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Ioun_Stone>
+    <Iron_Bands_of_Bilarro>
+      <Category>Wondrous item</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Iron_Bands_of_Bilarro>
+    <Iron_Flask>
+      <Category>Wondrous item</Category>
+      <Rarity>legendary</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Iron_Flask>
+    <Javelin_of_Lightning>
+      <Category>Weapon</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Javelin_of_Lightning>
+    <Keoghtom_s_Ointment>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Keoghtom_s_Ointment>
+    <Lantern_of_Revealing>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Lantern_of_Revealing>
+    <Luck_Blade>
+      <Category>Weapon</Category>
+      <Rarity>legendary</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Luck_Blade>
+    <Mace_of_Disruption>
+      <Category>Weapon</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Mace_of_Disruption>
+    <Mace_of_Smiting>
+      <Category>Weapon</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Mace_of_Smiting>
+    <Mace_of_Terror>
+      <Category>Weapon</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Mace_of_Terror>
+    <Mantle_of_Spell_Resistance>
+      <Category>Wondrous item</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Mantle_of_Spell_Resistance>
+    <Manual_of_Bodily_Health>
+      <Category>Wondrous item</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Manual_of_Bodily_Health>
+    <Manual_of_Gainful_Exercise>
+      <Category>Wondrous item</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Manual_of_Gainful_Exercise>
+    <Manual_of_Golems>
+      <Category>Wondrous item</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Manual_of_Golems>
+    <Manual_of_Quickness_of_Action>
+      <Category>Wondrous item</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Manual_of_Quickness_of_Action>
+    <Mariner_s_Armor>
+      <Category>Armor</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Mariner_s_Armor>
+    <Medallion_of_Thoughts>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Medallion_of_Thoughts>
+    <Mirror_of_Life_Trapping>
+      <Category>Wondrous item</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Mirror_of_Life_Trapping>
+    <Mithral_Armor>
+      <Category>Armor</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Mithral_Armor>
+    <Moonblade>
+      <Category>Weapon</Category>
+      <Rarity>legendary</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Moonblade>
+    <Necklace_of_Adaptation>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Necklace_of_Adaptation>
+    <Necklace_of_Fireballs>
+      <Category>Wondrous item</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Necklace_of_Fireballs>
+    <Necklace_of_Prayer_Beads>
+      <Category>Wondrous item</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Necklace_of_Prayer_Beads>
+    <Nine_Lives_Stealer>
+      <Category>Weapon</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Nine_Lives_Stealer>
+    <Nolzur_s_Marvelous_Pigments>
+      <Category>Wondrous item</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Nolzur_s_Marvelous_Pigments>
+    <Oathbow>
+      <Category>Weapon</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Oathbow>
+    <Oil_of_Etherealness>
+      <Category>Potion</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Oil_of_Etherealness>
+    <Oil_of_Sharpness>
+      <Category>Potion</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Oil_of_Sharpness>
+    <Oil_of_Slipperiness>
+      <Category>Potion</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Oil_of_Slipperiness>
+    <Orb_of_Dragonkind>
+      <Category>Wondrous item</Category>
+      <Rarity>artifact</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Orb_of_Dragonkind>
+    <Pearl_of_Power>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Pearl_of_Power>
+    <Periapt_of_Health>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Periapt_of_Health>
+    <Periapt_of_Proof_against_Poison>
+      <Category>Wondrous item</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Periapt_of_Proof_against_Poison>
+    <Periapt_of_Wound_Closure>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Periapt_of_Wound_Closure>
+    <Philter_of_Love>
+      <Category>Potion</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Philter_of_Love>
+    <Pipes_of_Haunting>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Pipes_of_Haunting>
+    <Pipes_of_the_Sewers>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Pipes_of_the_Sewers>
+    <Plate_Armor_of_Etherealness>
+      <Category>Armor</Category>
+      <Rarity>legendary</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Plate_Armor_of_Etherealness>
+    <Portable_Hole>
+      <Category>Wondrous item</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Portable_Hole>
+    <Potion_of_Animal_Friendship>
+      <Category>Potion</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Potion_of_Animal_Friendship>
+    <Potion_of_Clairvoyance>
+      <Category>Potion</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Potion_of_Clairvoyance>
+    <Potion_of_Climbing>
+      <Category>Potion</Category>
+      <Rarity>common</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Potion_of_Climbing>
+    <Potion_of_Diminution>
+      <Category>Potion</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Potion_of_Diminution>
+    <Potion_of_Fire_Breath>
+      <Category>Potion</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Potion_of_Fire_Breath>
+    <Potion_of_Flying>
+      <Category>Potion</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Potion_of_Flying>
+    <Potion_of_Gaseous_Form>
+      <Category>Potion</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Potion_of_Gaseous_Form>
+    <Potion_of_Giant_Strength>
+      <Category>Potion</Category>
+      <Rarity>rarity varies</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Potion_of_Giant_Strength>
+    <Potion_of_Growth>
+      <Category>Potion</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Potion_of_Growth>
+    <Potion_of_Healing>
+      <Category>Potion</Category>
+      <Rarity>rarity varies</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Potion_of_Healing>
+    <Potion_of_Heroism>
+      <Category>Potion</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Potion_of_Heroism>
+    <Potion_of_Invisibility>
+      <Category>Potion</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Potion_of_Invisibility>
+    <Potion_of_Invulnerability>
+      <Category>Potion</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Potion_of_Invulnerability>
+    <Potion_of_Longevity>
+      <Category>Potion</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Potion_of_Longevity>
+    <Potion_of_Mind_Reading>
+      <Category>Potion</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Potion_of_Mind_Reading>
+    <Potion_of_Poison>
+      <Category>Potion</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Potion_of_Poison>
+    <Potion_of_Resistance>
+      <Category>Potion</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Potion_of_Resistance>
+    <Potion_of_Speed>
+      <Category>Potion</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Potion_of_Speed>
+    <Potion_of_Vitality>
+      <Category>Potion</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Potion_of_Vitality>
+    <Potion_of_Water_Breathing>
+      <Category>Potion</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Potion_of_Water_Breathing>
+    <Quaal_s_Feather_Token>
+      <Category>Wondrous item</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Quaal_s_Feather_Token>
+    <Quiver_of_Ehlonna>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Quiver_of_Ehlonna>
+    <Ring_of_Animal_Influence>
+      <Category>Ring</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Ring_of_Animal_Influence>
+    <Ring_of_Djinni_Summoning>
+      <Category>Ring</Category>
+      <Rarity>legendary</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Ring_of_Djinni_Summoning>
+    <Ring_of_Elemental_Command>
+      <Category>Ring</Category>
+      <Rarity>legendary</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Ring_of_Elemental_Command>
+    <Ring_of_Evasion>
+      <Category>Ring</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Ring_of_Evasion>
+    <Ring_of_Feather_Falling>
+      <Category>Ring</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Ring_of_Feather_Falling>
+    <Ring_of_Free_Action>
+      <Category>Ring</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Ring_of_Free_Action>
+    <Ring_of_Invisibility>
+      <Category>Ring</Category>
+      <Rarity>legendary</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Ring_of_Invisibility>
+    <Ring_of_Jumping>
+      <Category>Ring</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Ring_of_Jumping>
+    <Ring_of_Mind_Shielding>
+      <Category>Ring</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Ring_of_Mind_Shielding>
+    <Ring_of_Poison_Resistance>
+      <Category>Ring</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Ring_of_Poison_Resistance>
+    <Ring_of_Protection>
+      <Category>Ring</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Ring_of_Protection>
+    <Ring_of_Regeneration>
+      <Category>Ring</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Ring_of_Regeneration>
+    <Ring_of_Resistance>
+      <Category>Ring</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Ring_of_Resistance>
+    <Ring_of_Shooting_Stars>
+      <Category>Ring</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Ring_of_Shooting_Stars>
+    <Ring_of_Spell_Storing>
+      <Category>Ring</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Ring_of_Spell_Storing>
+    <Ring_of_Spell_Turning>
+      <Category>Ring</Category>
+      <Rarity>legendary</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Ring_of_Spell_Turning>
+    <Ring_of_Swimming>
+      <Category>Ring</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Ring_of_Swimming>
+    <Ring_of_Telekinesis>
+      <Category>Ring</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Ring_of_Telekinesis>
+    <Ring_of_the_Ram>
+      <Category>Ring</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Ring_of_the_Ram>
+    <Ring_of_Three_Wishes>
+      <Category>Ring</Category>
+      <Rarity>legendary</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Ring_of_Three_Wishes>
+    <Ring_of_Warmth>
+      <Category>Ring</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Ring_of_Warmth>
+    <Ring_of_Water_Walking>
+      <Category>Ring</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Ring_of_Water_Walking>
+    <Ring_of_X-ray_Vision>
+      <Category>Ring</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Ring_of_X-ray_Vision>
+    <Robe_of_Eyes>
+      <Category>Wondrous item</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Robe_of_Eyes>
+    <Robe_of_Scintillating_Colors>
+      <Category>Wondrous item</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Robe_of_Scintillating_Colors>
+    <Robe_of_Stars>
+      <Category>Wondrous item</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Robe_of_Stars>
+    <Robe_of_the_Archmagi>
+      <Category>Wondrous item</Category>
+      <Rarity>legendary</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Robe_of_the_Archmagi>
+    <Robe_of_Useful_Items>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Robe_of_Useful_Items>
+    <Rod_of_Absorption>
+      <Category>Rod</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Rod_of_Absorption>
+    <Rod_of_Alertness>
+      <Category>Rod</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Rod_of_Alertness>
+    <Rod_of_Lordly_Might>
+      <Category>Rod</Category>
+      <Rarity>legendary</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Rod_of_Lordly_Might>
+    <Rod_of_Resurrection>
+      <Category>Rod</Category>
+      <Rarity>legendary</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Rod_of_Resurrection>
+    <Rod_of_Rulership>
+      <Category>Rod</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Rod_of_Rulership>
+    <Rod_of_Security>
+      <Category>Rod</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Rod_of_Security>
+    <Rod_of_the_Pact_Keeper>
+      <Category>Rod</Category>
+      <Rarity>uncommon (+1) rare (+2...</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Rod_of_the_Pact_Keeper>
+    <Rope_of_Climbing>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Rope_of_Climbing>
+    <Rope_of_Entanglement>
+      <Category>Wondrous item</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Rope_of_Entanglement>
+    <Saddle_of_the_Cavalier>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Saddle_of_the_Cavalier>
+    <Scarab_of_Protection>
+      <Category>Wondrous item</Category>
+      <Rarity>legendary</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Scarab_of_Protection>
+    <Scimitar_of_Speed>
+      <Category>Weapon</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Scimitar_of_Speed>
+    <Scroll_of_Protection>
+      <Category>Scroll</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Scroll_of_Protection>
+    <Sending_Stones>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Sending_Stones>
+    <Sentinel_Shield>
+      <Category>Armor</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Sentinel_Shield>
+    <Shield_of_Missile_Attraction>
+      <Category>Armor</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Shield_of_Missile_Attraction>
+    <Shield___1___2__or__3>
+      <Category>Armor</Category>
+      <Rarity>uncommon (+1) rare (+2...</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Shield___1___2__or__3>
+    <Slippers_of_Spider_Climbing>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Slippers_of_Spider_Climbing>
+    <Sovereign_Glue>
+      <Category>Wondrous item</Category>
+      <Rarity>legendary</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Sovereign_Glue>
+    <Spell_Scroll>
+      <Category>Scroll</Category>
+      <Rarity>rarity varies</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Spell_Scroll>
+    <Spellguard_Shield>
+      <Category>Armor</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Spellguard_Shield>
+    <Sphere_of_Annihilation>
+      <Category>Wondrous item</Category>
+      <Rarity>legendary</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Sphere_of_Annihilation>
+    <Staff_of_Charming>
+      <Category>Staff</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Staff_of_Charming>
+    <Staff_of_Fire>
+      <Category>Staff</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Staff_of_Fire>
+    <Staff_of_Frost>
+      <Category>Staff</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Staff_of_Frost>
+    <Staff_of_Healing>
+      <Category>Staff</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Staff_of_Healing>
+    <Staff_of_Power>
+      <Category>Staff</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Staff_of_Power>
+    <Staff_of_Striking>
+      <Category>Staff</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Staff_of_Striking>
+    <Staff_of_Swarming_Insects>
+      <Category>Staff</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Staff_of_Swarming_Insects>
+    <Staff_of_the_Adder>
+      <Category>Staff</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Staff_of_the_Adder>
+    <Staff_of_the_Magi>
+      <Category>Staff</Category>
+      <Rarity>legendary</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Staff_of_the_Magi>
+    <Staff_of_the_Python>
+      <Category>Staff</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Staff_of_the_Python>
+    <Staff_of_the_Woodlands>
+      <Category>Staff</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Staff_of_the_Woodlands>
+    <Staff_of_Thunder_and_Lightning>
+      <Category>Staff</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Staff_of_Thunder_and_Lightning>
+    <Staff_of_Withering>
+      <Category>Staff</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Staff_of_Withering>
+    <Stone_of_Controlling_Earth_Elementals>
+      <Category>Wondrous item</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Stone_of_Controlling_Earth_Elementals>
+    <Stone_of_Good_Luck__Luckstone_>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Stone_of_Good_Luck__Luckstone_>
+    <Sun_Blade>
+      <Category>Weapon</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Sun_Blade>
+    <Sword_of_Answering>
+      <Category>Weapon</Category>
+      <Rarity>legendary</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Sword_of_Answering>
+    <Sword_of_Kas>
+      <Category>Wondrous item</Category>
+      <Rarity>artifact</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Sword_of_Kas>
+    <Sword_of_Life_Stealing>
+      <Category>Weapon</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Sword_of_Life_Stealing>
+    <Sword_of_Sharpness>
+      <Category>Weapon</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Sword_of_Sharpness>
+    <Sword_of_Vengeance>
+      <Category>Weapon</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Sword_of_Vengeance>
+    <Sword_of_Wounding>
+      <Category>Weapon</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Sword_of_Wounding>
+    <Talisman_of_Pure_Good>
+      <Category>Wondrous item</Category>
+      <Rarity>legendary</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Talisman_of_Pure_Good>
+    <Talisman_of_the_Sphere>
+      <Category>Wondrous item</Category>
+      <Rarity>legendary</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Talisman_of_the_Sphere>
+    <Talisman_of_Ultimate_Evil>
+      <Category>Wondrous item</Category>
+      <Rarity>legendary</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Talisman_of_Ultimate_Evil>
+    <Tentacle_Rod>
+      <Category>Rod</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Tentacle_Rod>
+    <Tome_of_Clear_Thought>
+      <Category>Wondrous item</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Tome_of_Clear_Thought>
+    <Tome_of_Leadership_and_Influence>
+      <Category>Wondrous item</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Tome_of_Leadership_and_Influence>
+    <Tome_of_the_Stilled_Tongue>
+      <Category>Wondrous item</Category>
+      <Rarity>legendary</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Tome_of_the_Stilled_Tongue>
+    <Tome_of_Understanding>
+      <Category>Wondrous item</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Tome_of_Understanding>
+    <Trident_of_Fish_Command>
+      <Category>Weapon</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Trident_of_Fish_Command>
+    <Universal_Solvent>
+      <Category>Wondrous item</Category>
+      <Rarity>legendary</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Universal_Solvent>
+    <Vicious_Weapon>
+      <Category>Weapon</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Vicious_Weapon>
+    <Vorpal_Sword>
+      <Category>Weapon</Category>
+      <Rarity>legendary</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Vorpal_Sword>
+    <Wand_of_Binding>
+      <Category>Wand</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Wand_of_Binding>
+    <Wand_of_Enemy_Detection>
+      <Category>Wand</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Wand_of_Enemy_Detection>
+    <Wand_of_Fear>
+      <Category>Wand</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Wand_of_Fear>
+    <Wand_of_Fireballs>
+      <Category>Wand</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Wand_of_Fireballs>
+    <Wand_of_Lightning_Bolts>
+      <Category>Wand</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Wand_of_Lightning_Bolts>
+    <Wand_of_Magic_Detection>
+      <Category>Wand</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Wand_of_Magic_Detection>
+    <Wand_of_Magic_Missiles>
+      <Category>Wand</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Wand_of_Magic_Missiles>
+    <Wand_of_Orcus>
+      <Category>Wand</Category>
+      <Rarity>artifact</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Wand_of_Orcus>
+    <Wand_of_Paralysis>
+      <Category>Wand</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Wand_of_Paralysis>
+    <Wand_of_Polymorph>
+      <Category>Wand</Category>
+      <Rarity>very rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Wand_of_Polymorph>
+    <Wand_of_Secrets>
+      <Category>Wand</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Wand_of_Secrets>
+    <Wand_of_the_War_Mage__1___2__or__3>
+      <Category>Wand</Category>
+      <Rarity>uncommon (+1) rare (+2...</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Wand_of_the_War_Mage__1___2__or__3>
+    <Wand_of_Web>
+      <Category>Wand</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Wand_of_Web>
+    <Wand_of_Wonder>
+      <Category>Wand</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Wand_of_Wonder>
+    <Wave>
+      <Category>Weapon</Category>
+      <Rarity>legendary</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Wave>
+    <Weapon__1___2__or__3>
+      <Category>Weapon</Category>
+      <Rarity>uncommon (+1) rare (+2...</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Weapon__1___2__or__3>
+    <Weapon_of_Warning>
+      <Category>Weapon</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Weapon_of_Warning>
+    <Well_of_Many_Worlds>
+      <Category>Wondrous item</Category>
+      <Rarity>legendary</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Well_of_Many_Worlds>
+    <Whelm>
+      <Category>Weapon</Category>
+      <Rarity>legendary</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Whelm>
+    <Wind_Fan>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement />
+    </Wind_Fan>
+    <Winged_Boots>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Winged_Boots>
+    <Wings_of_Flying>
+      <Category>Wondrous item</Category>
+      <Rarity>rare</Rarity>
+      <Book>DMG</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Wings_of_Flying>
+    <Arcane_propulsion_arm>
+      <Category>Wondrous item</Category>
+      <Rarity>very rare</Rarity>
+      <Book>Eberron</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Arcane_propulsion_arm>
+    <Arm_blade>
+      <Category>Weapon</Category>
+      <Rarity>common</Rarity>
+      <Book>Eberron</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Arm_blade>
+    <Belashyrra_s_beholder_crown>
+      <Category>Wondrous item</Category>
+      <Rarity>legendary</Rarity>
+      <Book>Eberron</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Belashyrra_s_beholder_crown>
+    <Cleansing_stone>
+      <Category>Wondrous item</Category>
+      <Rarity>common</Rarity>
+      <Book>Eberron</Book>
+      <Page />
+      <Attunement />
+    </Cleansing_stone>
+    <Docent>
+      <Category>Wondrous item</Category>
+      <Rarity>rare</Rarity>
+      <Book>Eberron</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Docent>
+    <Dyrrn_s_tentacle_whip>
+      <Category>Weapon</Category>
+      <Rarity>very rare</Rarity>
+      <Book>Eberron</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Dyrrn_s_tentacle_whip>
+    <Earworm>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>Eberron</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Earworm>
+    <Everbright_lantern>
+      <Category>Wondrous item</Category>
+      <Rarity>common</Rarity>
+      <Book>Eberron</Book>
+      <Page />
+      <Attunement />
+    </Everbright_lantern>
+    <Feather_token>
+      <Category>Wondrous item</Category>
+      <Rarity>common</Rarity>
+      <Book>Eberron</Book>
+      <Page />
+      <Attunement />
+    </Feather_token>
+    <Finder_s_goggles>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>Eberron</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Finder_s_goggles>
+    <Glamerweave>
+      <Category>Wondrous item</Category>
+      <Rarity>common or uncommon</Rarity>
+      <Book>Eberron</Book>
+      <Page />
+      <Attunement />
+    </Glamerweave>
+    <Imbued_Woon_Focus>
+      <Category>Wondrous item</Category>
+      <Rarity>common</Rarity>
+      <Book>Eberron</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Imbued_Woon_Focus>
+    <Keycharm>
+      <Category>Wondrous item</Category>
+      <Rarity>common</Rarity>
+      <Book>Eberron</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Keycharm>
+    <Kyrzin_s_ooze>
+      <Category>Wondrous item</Category>
+      <Rarity>very rare</Rarity>
+      <Book>Eberron</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Kyrzin_s_ooze>
+    <Living_armor>
+      <Category>Armor</Category>
+      <Rarity>very rare</Rarity>
+      <Book>Eberron</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Living_armor>
+    <Living_gloves>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>Eberron</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Living_gloves>
+    <Orb_of_shielding>
+      <Category>Wondrous item</Category>
+      <Rarity>common</Rarity>
+      <Book>Eberron</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Orb_of_shielding>
+    <Prosthetic_limb>
+      <Category>Wondrous item</Category>
+      <Rarity>common</Rarity>
+      <Book>Eberron</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Prosthetic_limb>
+    <Scribe_s_pen>
+      <Category>Wondrous item</Category>
+      <Rarity>common</Rarity>
+      <Book>Eberron</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Scribe_s_pen>
+    <Shiftweave>
+      <Category>Wondrous item</Category>
+      <Rarity>common</Rarity>
+      <Book>Eberron</Book>
+      <Page />
+      <Attunement />
+    </Shiftweave>
+    <Speaking_stone>
+      <Category>Wondrous item</Category>
+      <Rarity>very rare</Rarity>
+      <Book>Eberron</Book>
+      <Page />
+      <Attunement />
+    </Speaking_stone>
+    <Spellshard>
+      <Category>Wondrous item</Category>
+      <Rarity>common</Rarity>
+      <Book>Eberron</Book>
+      <Page />
+      <Attunement />
+    </Spellshard>
+    <Ventilating_lungs>
+      <Category>Wondrous item</Category>
+      <Rarity>rare</Rarity>
+      <Book>Eberron</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Ventilating_lungs>
+    <Wand_sheath>
+      <Category>Wondrous item</Category>
+      <Rarity>common</Rarity>
+      <Book>Eberron</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Wand_sheath>
+    <Whell_of_wind_and_water>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>Eberron</Book>
+      <Page />
+      <Attunement />
+    </Whell_of_wind_and_water>
+    <Acheron_Blade>
+      <Category>Weapon</Category>
+      <Rarity>rare</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Acheron_Blade>
+    <Amulet_of_the_Drunkard>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement />
+    </Amulet_of_the_Drunkard>
+    <Arcane_Cannon>
+      <Category>Wondrous item</Category>
+      <Rarity>very rare</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement />
+    </Arcane_Cannon>
+    <Battering_Shield>
+      <Category>Armor</Category>
+      <Rarity>rare</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Battering_Shield>
+    <Blade_of_Broken_Mirros>
+      <Category>Weapon</Category>
+      <Rarity>artifact</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Blade_of_Broken_Mirros>
+    <Bloodaxe>
+      <Category>Weapon</Category>
+      <Rarity>very rare</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Bloodaxe>
+    <Brooch_of_Living_Essence>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Brooch_of_Living_Essence>
+    <Brreathing_Bubble>
+      <Category>Wondrous item</Category>
+      <Rarity>common</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement />
+    </Brreathing_Bubble>
+    <Butcher_s_Bib>
+      <Category>Wondrous item</Category>
+      <Rarity>rare</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Butcher_s_Bib>
+    <Coin_of_Delving>
+      <Category>Wondrous item</Category>
+      <Rarity>common</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement />
+    </Coin_of_Delving>
+    <Corpse_Slayer>
+      <Category>Weapon</Category>
+      <Rarity>rare</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Corpse_Slayer>
+    <Danoth_s_Visor>
+      <Category>Wondrous item</Category>
+      <Rarity>legendary</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Danoth_s_Visor>
+    <Dispelling_Stone>
+      <Category>Wondrous item</Category>
+      <Rarity>very rare</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement />
+    </Dispelling_Stone>
+    <Duskcrusher>
+      <Category>Weapon</Category>
+      <Rarity>very rare</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Duskcrusher>
+    <Dust_of_Deliciousness>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement />
+    </Dust_of_Deliciousness>
+    <Ersatz_Eye>
+      <Category>Wondrous item</Category>
+      <Rarity>common</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Ersatz_Eye>
+    <Goggles_of_object_reading>
+      <Category>Wondrous item</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Goggles_of_object_reading>
+    <Grimoire_Infinitus>
+      <Category>Wondrous item</Category>
+      <Rarity>legendary</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Grimoire_Infinitus>
+    <Grovelthrash>
+      <Category>Weapon</Category>
+      <Rarity>artifact</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Grovelthrash>
+    <Hide_of_the_Feral_Guardian>
+      <Category>Armor</Category>
+      <Rarity>legendary</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Hide_of_the_Feral_Guardian>
+    <Hunter_s_Coat>
+      <Category>Armor</Category>
+      <Rarity>very rare</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Hunter_s_Coat>
+    <Infiltrator_s_Key>
+      <Category>Wondrous item</Category>
+      <Rarity>legendary</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Infiltrator_s_Key>
+    <Lash_of_Shadows>
+      <Category>Weapon</Category>
+      <Rarity>artifact</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Lash_of_Shadows>
+    <Last_stand_armor>
+      <Category>Armor</Category>
+      <Rarity>very rare</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement />
+    </Last_stand_armor>
+    <Luxon_Beacon>
+      <Category>Wondrous item</Category>
+      <Rarity>legendary</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement />
+    </Luxon_Beacon>
+    <Mace_of_the_Black_Crown>
+      <Category>Weapon</Category>
+      <Rarity>artifact</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Mace_of_the_Black_Crown>
+    <Needle_of_Mending>
+      <Category>Weapon</Category>
+      <Rarity>rare</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Needle_of_Mending>
+    <Nightfall_Pearl>
+      <Category>Wondrous item</Category>
+      <Rarity>legendary</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Nightfall_Pearl>
+    <Orb_of_the_Veil>
+      <Category>Wondrous item</Category>
+      <Rarity>very rare</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Orb_of_the_Veil>
+    <Potion_of_Maxmum_Power>
+      <Category>Potion</Category>
+      <Rarity>rare</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement />
+    </Potion_of_Maxmum_Power>
+    <Potion_of_Possiblity>
+      <Category>Potion</Category>
+      <Rarity>very rare</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement />
+    </Potion_of_Possiblity>
+    <Prosthetic_Limb>
+      <Category>Wondrous item</Category>
+      <Rarity>common</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Prosthetic_Limb>
+    <Reincarnation_Dust>
+      <Category>Wondrous item</Category>
+      <Rarity>very rare</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement />
+    </Reincarnation_Dust>
+    <Ring_of_obscuring>
+      <Category>Ring</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Ring_of_obscuring>
+    <Ring_of_temporal_salvation>
+      <Category>Ring</Category>
+      <Rarity>rare</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Ring_of_temporal_salvation>
+    <Rod_of_retribution>
+      <Category>Rod</Category>
+      <Rarity>uncommon</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Rod_of_retribution>
+    <Ruin_s_Wake>
+      <Category>Weapon</Category>
+      <Rarity>artifact</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Ruin_s_Wake>
+    <Silken_Spite>
+      <Category>Weapon</Category>
+      <Rarity>artifact</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Silken_Spite>
+    <Spell_bottle>
+      <Category>Wondrous item</Category>
+      <Rarity>legendary</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Spell_bottle>
+    <Staff_of_Dunamancy>
+      <Category>Staff</Category>
+      <Rarity>very rare</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Staff_of_Dunamancy>
+    <Staff_of_the_Ivory_Claw>
+      <Category>Staff</Category>
+      <Rarity>rare</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Staff_of_the_Ivory_Claw>
+    <Stormgirdle>
+      <Category>Wondrous item</Category>
+      <Rarity>legendary</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Stormgirdle>
+    <The_Bloody_End>
+      <Category>Weapon</Category>
+      <Rarity>artifact</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </The_Bloody_End>
+    <Verminshroud>
+      <Category>Wondrous item</Category>
+      <Rarity>legendary</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Verminshroud>
+    <Vox_Seeker>
+      <Category>Wondrous item</Category>
+      <Rarity>common</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement />
+    </Vox_Seeker>
+    <Weapon_of_Certain_Death>
+      <Category>Weapon</Category>
+      <Rarity>rare</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement />
+    </Weapon_of_Certain_Death>
+    <Will_of_the_Talon>
+      <Category>Weapon</Category>
+      <Rarity>artifact</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Will_of_the_Talon>
+    <Wreath_of_the_Prism>
+      <Category>Wondrous item</Category>
+      <Rarity>legendary</Rarity>
+      <Book>Explorer´s Guide to Wildemount</Book>
+      <Page />
+      <Attunement>Attunement</Attunement>
+    </Wreath_of_the_Prism>
+  </Sheet1>
+</data>
