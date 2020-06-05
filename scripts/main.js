@@ -13,8 +13,8 @@ function setUserName() {
 function logSubmit(event) {
   alert('test');
 }*/
-import { requirejs } from './module.js';
-var itemsdatabase = require('../content/items.xml');
+//import { requirejs } from './module.js';
+//var itemsdatabase = require('../content/items.xml');
 
 var common = document.getElementById('commonitems');
 var uncommon = document.getElementById('uncommonitems');
